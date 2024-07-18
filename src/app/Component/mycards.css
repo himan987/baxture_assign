@@ -1,0 +1,25 @@
+.m10 {
+  margin: 15px;
+  /* box-sizing: border-box; */
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+.mr10 {
+  margin-right: 10px;
+}
+.hover-underline {
+  text-decoration: none;
+  cursor: pointer;
+}
+.hover-underline:hover {
+  text-decoration: underline;
+}
